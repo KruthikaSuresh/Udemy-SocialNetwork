@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Kruthi_14:SKKR1710@socialnetwork.vyy95.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"e6aeb6703b37246dba2e",
+    "githubSecret":"8c5b7d768e6c9ebf07a05b47c5326322d236e500"
+}
